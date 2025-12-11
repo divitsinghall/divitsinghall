@@ -39,12 +39,12 @@ I recently engineered a **High-Frequency Trading Engine** in C++20.
 
 ### 🏗️ Selected Projects
 
-#### 🌩️ [Titan Orchestrator](https://github.com/divitsinghall/YOUR-REPO-LINK)
+#### 🌩️ [Titan Orchestrator](https://github.com/divitsinghall/TitanOrchestrator.git)
 *Distributed Job Scheduler | .NET 8, gRPC, Docker, Redis, AWS*
 - Architected a cloud-native scheduler on AWS Fargate using a custom VPC topology.
 - Implemented a resilient "Master-Worker" pattern with Redis state management to decouple execution from submission.
 
-#### ⚡ [FlashBurst](https://github.com/divitsinghall/YOUR-REPO-LINK)
+#### ⚡ [FlashBurst](https://github.com/divitsinghall/FlashBurst.git)
 *High-Concurrency Flash Sale Engine | Ruby on Rails, Redis, PostgreSQL*
 - Handled **5,000+ concurrent requests** with zero inventory drift using Redis Lua scripting.
 - Reduced DB load by **99%** via asynchronous write-behind patterns with Sidekiq.
