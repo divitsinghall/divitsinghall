@@ -11,7 +11,7 @@ I recently engineered a **High-Frequency Trading Engine** in C++20.
 - **Performance:** Achieved **45ns wire-to-order latency** and **1.66 billion msgs/sec** throughput.
 - **Tech:** Zero-copy networking, lock-free algorithms, slab allocation, and kernel bypass techniques.
 - **Optimization:** Utilized `__builtin_bswap` intrinsics and branch prediction hints to minimize pipeline stalls.
-- [**View Repository**](https://github.com/divitsinghall/Chronos-ITCH) *(Make sure to link your actual repo here)*
+- [**View Repository**](https://github.com/divitsinghall/Chronos-ITCH)
 
 ---
 
