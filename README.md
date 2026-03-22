@@ -29,7 +29,7 @@ I recently engineered a **High-Frequency Trading Engine** in C++20.
 
 ### 💼 Experience
 
-- **Incoming SDE Intern (Return Offer)** @ [Amazon](https://www.amazon.com/) *(Sep 2026 - Dec 2026)*
+- **Incoming SDE Intern (Return Offer)** @ [Amazon](https://www.amazon.com/) *(May 2026 - Aug 2026)*
 - **Software Development Engineer Intern** @ [Amazon](https://www.amazon.com/) *(May 2025 - Aug 2025)*
   - Authored design specs for a diagnostics platform integrating **9,000+ microservices**.
   - Reduced incident triage time by **44%** by aggregating telemetry and automating RCA.
